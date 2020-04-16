@@ -1,0 +1,20 @@
+Brush up your basics
+
+Basic Python
+https://developers.google.com/edu/python
+understanding and working with Git
+https://git-scm.com/download/win
+https://spoken-tutorial.org/tutorial-search/?search_foss=Git&search_language=English
+Mathematics required for ML
+https://youtu.be/1VSZtNYMntM
+https://gwthomas.github.io/docs/math4ml.pdf
+ML Basic course
+https://developers.google.com/machine-learning/crash-course/
+Become a Command Line Ninja With These Time-Saving Shortcuts
+https://lifehacker.com/become-a-command-line-ninja-with-these-time-saving-shor-5743814
+Intractive IDE:
+https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc
+Amit Sethi Message for young asperents of ML:
+One of the best resources out there on mathematics for machine learning is a book by this very name: Mathematics for Machine Learning by Deisenroth, Faisal, and Ong. [https://shorturl.at/hlCRY]. In that, for now, please read the following sections: 2.1 - 2.3, 3.1-3.4, 5.1-5.2, 6.1-6.5, 7.1, in that order of importance. I apologize for the errors in the third-party video from Edureka that I posted with the intention to ease your self-study by watching a video instead of reading a paper or a book. The lesson learned for me is that sometimes it is best to stick to written material from reputable sources.
+Also, do check out some free videos from a company that teaches working professionals for a premium: https://www.greatlearning.in/academy. There is some good material on python for ML, ML, and DL in there.
+Full disclosure: Prof. Arjun Jain and I have taught a few modules for this company
